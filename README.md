@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am TypeScript/JavaScript enthusiast experienced with React and Angular. Open to new technologies and development opportunities. 
+I am TypeScript/JavaScript enthusiast experienced with React and Angular.
+
+Open to new technologies and development opportunities. 
 
 Passionate about data visualization and creating cool user interfaces.
 
