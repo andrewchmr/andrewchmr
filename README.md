@@ -1,7 +1,5 @@
 # Hey, I’m Andriy Chemerynskiy 👋
 
-Software Engineer👨‍💻
-
 Website: https://andrewchmr.com/ 🚀
 
 ## About me 
