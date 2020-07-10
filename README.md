@@ -1,6 +1,3 @@
-
-<img align="right" width="400" src="https://raw.githubusercontent.com/andrewchmr/andrewchmr/master/ezgif.com-optimize.gif">
-
 ### Hey, I’m Andriy Chemerynskiy 👋
 
 Software Engineer👨‍💻
