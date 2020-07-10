@@ -1,8 +1,6 @@
-### Hey, I’m Andriy Chemerynskiy 👋
+# Hey, I’m Andriy Chemerynskiy 👋
 
 Software Engineer👨‍💻
-
-Based in Wroclaw, Poland🏙
 
 Website: https://andrewchmr.com/
 
@@ -13,8 +11,6 @@ TypeScript/JavaScript enthusiast experienced with React ⚛️
 Open to new technologies and development opportunities 😎
 
 Passionate about data visualization and creating cool user interfaces ✨
-
-Email me: andrzej.chem@gmail.com 📫
 
 ## Social media :mailbox_with_no_mail:
 
