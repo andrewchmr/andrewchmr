@@ -1,8 +1,4 @@
-# Hey, I’m Andriy Chemerynskiy 👋
-
-Website: https://andrewchmr.com/ 🚀
-
-## About me 
+# Hey, I’m Andriy Chemerynskiy 👋 
 
 TypeScript/JavaScript enthusiast experienced with React ⚛️
 
