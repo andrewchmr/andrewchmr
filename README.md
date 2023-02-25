@@ -1,10 +1,26 @@
 # Hey, I’m Andriy Chemerynskiy 👋 
 
-TypeScript/JavaScript enthusiast experienced with React ⚛️
+### Frontend Developer ([Nord Security](https://nordsecurity.com/)) and Indie Hacker
 
 Open to new technologies and development opportunities 😎
 
 Passionate about data visualization and creating cool user interfaces ✨
+
+## Recent projects
+
+### InGastro.pl
+Nov 2022 - Present
+
+Job board for finding hospitality jobs in Poland
+
+https://ingastro.pl
+
+### 460 Gallery (Beta)
+Jan 2022 - Feb 2022
+
+Platform that allows anyone to share and explore art in 3D virtual space
+
+https://460gallery.com
 
 ## Social media :mailbox_with_no_mail:
 
