@@ -8,8 +8,8 @@ Passionate about data visualization and creating cool user interfaces ✨
 
 ## Recent projects
 
-### InGastro.pl
-Nov 2022 - Present
+### InGastro.pl (Acquired)
+Nov 2022 - June 2023
 
 Job board for finding hospitality jobs in Poland
 
