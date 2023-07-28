@@ -8,6 +8,13 @@ Passionate about data visualization and creating cool user interfaces ✨
 
 ## Recent projects
 
+### Kalkulator Snu
+July 2023
+
+Find out the perfect bedtime or wake up time to rise feeling refreshed and energized
+
+https://kalkulatorsnu.com.pl
+
 ### InGastro.pl (Acquired)
 Nov 2022 - June 2023
 
