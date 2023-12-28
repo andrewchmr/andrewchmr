@@ -8,7 +8,14 @@ Passionate about data visualization and creating cool user interfaces ✨
 
 ## Recent projects
 
-### Kalkulator Snu
+### Cocktail Recipes
+December 2023
+
+Blog with cocktail recipes
+
+https://www.drinkiprzepisy.pl
+
+### Sleep Calculator
 July 2023
 
 Find out the perfect bedtime or wake up time to rise feeling refreshed and energized
