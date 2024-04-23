@@ -8,6 +8,13 @@ Passionate about data visualization and creating cool user interfaces ✨
 
 ## Recent projects
 
+### Kavalerka.pl
+Apr 2024 - Present
+
+Real estate platform for studio apartments ("kawalerka" in Polish).
+
+https://www.kavalerka.pl/
+
 ### Cocktail Recipes
 December 2023
 
