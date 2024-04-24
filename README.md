@@ -11,7 +11,7 @@ Passionate about data visualization and creating cool user interfaces ✨
 ### Kavalerka.pl
 Apr 2024 - Present
 
-Real estate platform for studio apartments ("kawalerka" in Polish).
+Real estate platform for studio apartments.
 
 https://www.kavalerka.pl/
 
