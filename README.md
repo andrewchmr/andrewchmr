@@ -15,13 +15,6 @@ Real estate platform for studio apartments.
 
 https://www.kavalerka.pl/
 
-### Cocktail Recipes
-December 2023
-
-Blog with cocktail recipes
-
-https://www.drinkiprzepisy.pl
-
 ### Sleep Calculator
 July 2023
 
@@ -33,8 +26,6 @@ https://kalkulatorsnu.com.pl
 Nov 2022 - June 2023
 
 Job board for finding hospitality jobs in Poland
-
-https://ingastro.pl
 
 ### 460 Gallery (Beta)
 Jan 2022 - Feb 2022
