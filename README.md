@@ -1,6 +1,6 @@
 # Hey, I’m Andrew Chemerynskiy 👋 
 
-### Senior Frontend Developer ([Nord Security](https://nordsecurity.com/)) and Indie Hacker
+### Senior Frontend Developer ([Nord Security](https://nordsecurity.com/))
 
 Open to new technologies and development opportunities 😎
 
