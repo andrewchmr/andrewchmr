@@ -8,19 +8,28 @@ Passionate about data visualization and creating cool user interfaces ✨
 
 ## Recent projects
 
+### Madeira Flight Risk
+
+2026 - Present
+
+Live weather disruption risk for FNC airport.
+
+https://madeiraflightrisk.com/
+
+### ExtReviewBot
+
+2025 - Present
+
+Browser extension review tracking & analytics.
+
+https://extreviewbot.com/
+
 ### Kavalerka.pl
-Apr 2024 - Present
+2024 - Present
 
 Real estate platform for studio apartments.
 
 https://www.kavalerka.pl/
-
-### Sleep Calculator
-July 2023
-
-Find out the perfect bedtime or wake up time to rise feeling refreshed and energized
-
-https://kalkulatorsnu.com.pl
 
 ## Social media :mailbox_with_no_mail:
 
