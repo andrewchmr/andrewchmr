@@ -8,6 +8,14 @@ Passionate about data visualization and creating cool user interfaces ✨
 
 ## Recent projects
 
+### CMS Brew
+
+2026 - Present
+
+Clients edit their live site in plain language via chat.
+
+https://cmsbrew.com/
+
 ### Madeira Flight Risk
 
 2026 - Present
@@ -15,6 +23,14 @@ Passionate about data visualization and creating cool user interfaces ✨
 Live weather disruption risk for FNC airport.
 
 https://madeiraflightrisk.com/
+
+### AirportStrikes.eu
+
+2026 - Present
+
+Live map of airport labour strikes across Europe.
+
+https://airportstrikes.eu/
 
 ### ExtReviewBot
 
